@@ -1,8 +1,18 @@
 {
-    "name":"GOLD",
-    "description":"GOLD",
-    "image_url":"https://icon-library.com/images/gold-coins-icon-20_51800.jpg",
-    "attribute":[
-        
-    ]
+  "description": "GOLD12312312312312312312", 
+  "external_url": "", 
+  "image": "https://icon-library.com/images/gold-coins-icon-20_51800.jpg", 
+  "name": "GOLD",
+  "attributes": [
+   ]
 }
+
+
+//{
+    //"name":"GOLD",
+    //"description":"GOLD",
+    //"image_url":"https://icon-library.com/images/gold-coins-icon-20_51800.jpg",
+    //"attribute":[
+        
+   // ]
+//}
