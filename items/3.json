@@ -1,9 +1,7 @@
 {
-    "name":"THOR'S HAMMER",
-    "description":"THOR'S HAMMER",
-    "image_url":"https://cdn-icons-png.flaticon.com/512/1396/1396645.png",
-    "attribute":[
-        
-    ]
+    "name": "Thor's hammer",
+    "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
+    "image": "https://cdn-icons-png.flaticon.com/512/1396/1396645.png",
+    "strength": 20
 }
 
