@@ -1,7 +1,6 @@
 {
-    "name":"SILVER",
-    "description":"SILVER",
-    "image_url":"https://lunenburgdocfest.com/wp-content/uploads/2017/09/Silver-Icon.png",
-    "attribute":[ 
-    ]
+    "name": "SILVER",
+    "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
+    "image": "https://lunenburgdocfest.com/wp-content/uploads/2017/09/Silver-Icon.png",
+    "strength": 20
 }
