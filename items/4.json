@@ -1,8 +1,6 @@
 {
-    "name":"SWORD",
-    "description":"SWORD",
-    "image_url":"https://cdn-icons-png.flaticon.com/512/771/771255.png",
-    "attribute":[
-        
-    ]
+    "name": "SWORD",
+    "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
+    "image": "https://cdn-icons-png.flaticon.com/512/771/771255.png",
+    "strength": 20
 }
