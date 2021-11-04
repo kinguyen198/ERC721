@@ -1,8 +1,6 @@
 {
-    "name":"SHIELD",
-    "description":"SHIELD",
-    "image_url":"https://icons.iconarchive.com/icons/google/noto-emoji-objects/1024/62967-shield-icon.png",
-    "attribute":[
-        
-    ]
+    "name": "SHIELD",
+    "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
+    "image": "https://icons.iconarchive.com/icons/google/noto-emoji-objects/1024/62967-shield-icon.png",
+    "strength": 20
 }
