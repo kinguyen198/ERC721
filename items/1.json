@@ -1,7 +1,6 @@
-
 {
-    "id":1,
-    "name":"GOLD",
-    "description":"GOLD",
-    "image":"https://icon-library.com/images/gold-coins-icon-20_51800.jpg",
+    "name": "GOLD",
+    "description": "Mjölnir, the legendary hammer of the Norse god of thunder.",
+    "image": "https://icon-library.com/images/gold-coins-icon-20_51800.jpg",
+    "strength": 20
 }
